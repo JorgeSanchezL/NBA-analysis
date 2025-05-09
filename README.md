@@ -1,5 +1,5 @@
 # NBA Analysis
-This repository contains an analysis of NBA players' data from every season since 1947. The dataset and analyses are organized into directories as follows. The analyses leverage the MapReduce programming model and are prepared to be used with Hadoop Streaming.
+This repository contains an analysis of NBA players' data from every season since 1947. The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats). The analyses are organized into directories and leverage the MapReduce programming model, designed to be used with Hadoop Streaming.
 
 ## Dataset
 - **`dataset/`**: Contains the dataset with NBA players' data, including statistics for every season since 1947.
